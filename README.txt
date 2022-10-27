@@ -6,3 +6,5 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 My name is Harris Krasner and I am interested in the vast field of marine research. Specifically, the field of shark biology and conservation. I am unsure what species and profession specifically I want to work with, but I am quite interested in movement ecology, behavioral responses, and some of my favorite species include Greenland sharks, salmon sharks, white sharks, thresher sharks and great hammerheads. }
+
+Hi! I'm Rachel and my reproach interests include understanding marine soundscapes and how they evolve with climate change.
